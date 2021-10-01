@@ -14,7 +14,7 @@ Fork the repository. If you plan to work on your computer clone the fork to your
 
 ### Step 2: Claim an Issue
 
-Head over to the [issues tab](https://github.com/renana/github102-room-temp/issues) above and claim an issue. 
+Head over to the [issues tab](https://github.com/renana/github102-room-1/issues) above and claim an issue. 
 Wait for the issue to be assigned to you. This can be done by one of your team mates approving the assignment in a comment.
 
 ### Step 3: Start a pull request
