@@ -2,8 +2,13 @@
 
 ## Ingredients
 
-Add the ingredients list here.
+1. Pasta
+2. Vodka Sauce
 
 ## Instructions
 
-Add the recipe description here.
+1. Boil Water
+2. Cook On Medium For 12 Minutes
+3. Drain Pasta
+4. Add Vodka Sauce
+
