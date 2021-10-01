@@ -1,6 +1,6 @@
 ## Welcome to GitHub 102
 
-This repository publish a website that can be viewed at https://renana.github.io/github102-room-temp/.
+This repository publish a website that can be viewed at https://renana.github.io/github102-room-1/.
 
 You can use the [editor on GitHub](https://github.com/renana/github102-recipes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
